@@ -1,2 +1,10 @@
 # OrangeHomeWork
-Homework is all you needed!!
+- Homework is all you needed. 
+- Regression
+- SVM
+- MLP
+- Adaboost 
+
+
+do you like doing homework?
+
